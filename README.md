@@ -8,7 +8,7 @@ PHPとRubyエンジニアとして自社開発企業に勤務しつつ、新し�
 ## 🚀 現在注力していること・興味 (Currently Focusing On / Interested In)
 
 -   新しい技術の探求と学習
--   **主な関心技術:** Vue.js, Next.js, Laravel, Go
+-   **主な関心技術:** Next.js, Vue.js, Laravel
 -   モダンで効率的な開発手法
 -   個人で使える便利なサービスを開発し、共有すること
 
@@ -17,14 +17,14 @@ PHPとRubyエンジニアとして自社開発企業に勤務しつつ、新し�
 -   **Languages:** JavaScript, PHP, Ruby, TypeScript
 -   **Frameworks/Libraries:** Laravel, Vue.js, Next.js (学習中)
 -   **Databases:** MySQL, PostgreSQL
--   **Others:** Docker, AWS, Git
+-   **Others:** Docker, AWS, GCP, Git
 
 ## 💡 個人開発プロジェクト (My Projects)
 
-### 📊 会計管理アプリ (kaikei)
--   **Repository:** [https://github.com/ruu2023/kaikei](https://github.com/ruu2023/kaikei)
--   個人事業主向けの会計管理アプリケーションです。Vue.jsを採用し、シームレスで直感的なユーザー体験を目指して開発中です。
--   **Tech Stack:** Laravel, Vue.js
+### 📊 書籍販売管理アプリ (Book Commerce)
+-   **Repository:** [book-commerce-app](https://github.com/ruu2023/book-commerce-app)
+-   個人向けの記事販売アプリケーションです。Next.js と Micro CMS を採用して、シームレスで直感的なユーザー体験を目指して開発中です。
+-   **Tech Stack:** Next.js, Micro CMS, Stripe
 
 ## 📫 連絡先 (Connect with me)
 
