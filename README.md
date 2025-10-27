@@ -15,16 +15,27 @@ PHPとRubyエンジニアとして自社開発企業に勤務しつつ、新し�
 ## 🛠️ スキルセット (Skills)
 
 -   **Languages:** JavaScript, PHP, Ruby, TypeScript
--   **Frameworks/Libraries:** Laravel, Vue.js, Next.js (学習中)
+-   **Frameworks/Libraries:** Laravel, Vue.js, Next.js
 -   **Databases:** MySQL, PostgreSQL
 -   **Others:** Docker, AWS, GCP, Git
 
 ## 💡 個人開発プロジェクト (My Projects)
 
+### 📊 タスク管理アプリ (promane)
+-   **Repository:** [promane](https://github.com/ruu2023/promane)
+-   Next.js 15 (フロントエンド) と Laravel 11 (バックエンド API) によって構築されたプロジェクト管理ツールです。
+-   **Tech Stack:** Laravel11, Next.js 15, インフラ Cloud Run
+
+### 📊 会計管理アプリ (kaikei)
+-   **Repository:** [kaikei](https://github.com/ruu2023/kaikei)
+-   個人事業主向けの会計管理アプリケーションです。日々の取引を記録し、収支を可視化することで、確定申告の準備をサポートします。
+-   **Tech Stack:** Laravel11, tailwind CSS
+
 ### 📊 書籍販売管理アプリ (Book Commerce)
 -   **Repository:** [book-commerce-app](https://github.com/ruu2023/book-commerce-app)
 -   個人向けの記事販売アプリケーションです。Next.js と Micro CMS を採用して、シームレスで直感的なユーザー体験を目指して開発中です。
--   **Tech Stack:** Next.js, Micro CMS, Stripe
+-   **Tech Stack:** Next.js 13, Micro CMS, Stripe
+
 
 ## 📫 連絡先 (Connect with me)
 
